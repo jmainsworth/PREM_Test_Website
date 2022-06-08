@@ -12,9 +12,9 @@
 	<title>PREM 2021</title>
 
 	<!-- Need to do the style in css (it will go here) -->
-	<!--
-	<link rel="stylesheet" href="css/style.css">
-	-->
+	
+	<link rel="stylesheet" href="justified-nav.css">
+	
 
 	<!-- Need to put in the website elements -->
 
